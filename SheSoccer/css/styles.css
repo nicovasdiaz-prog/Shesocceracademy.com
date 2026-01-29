@@ -413,7 +413,7 @@ body {
 .hero.hero-photo .hero-bg{
   position: absolute;
   inset: 0;
-  background-image: url("../assets/hero-bg.webp");
+  background-image: url("../assets/hero-bg.jpg");
   background-size: cover;
   background-position: center;
   object-fit: contain;
